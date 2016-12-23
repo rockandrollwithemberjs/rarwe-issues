@@ -4,3 +4,6 @@ The Rock and Roll with Ember.js book can be bought (or a sample chapter download
 
 If you find something could be improved in the book, be it a typo or a technical inaccuracy, an insufficient explanation, please create an issue here and I'll address it.
 
+# Releases of the book
+
+* 2016-12-23: Version 2.10
