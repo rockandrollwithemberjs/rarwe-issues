@@ -8,6 +8,7 @@ If you find something could be improved in the book, be it a typo or a technical
 
 (See [Releases](https://github.com/balinterdi/rarwe-issues/releases) for more information on each release)
 
+* 2019-01-18: Version 3.6 and 3.7
 * 2018-11-23: Version 3.5.1
 * 2018-11-16: Version 3.4 and 3.5
 * 2018-08-01: Version 3.3
