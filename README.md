@@ -8,6 +8,7 @@ If you find something could be improved in the book, be it a typo or a technical
 
 (See [Releases](https://github.com/balinterdi/rarwe-issues/releases) for more information on each release)
 
+* 2020-01-20: Version 3.14
 * 2019-09-26: Version 3.12 (the Encore chapters)
 * 2019-09-13: Version 3.12 (without the Encore chapters)
 * 2019-06-07: Version 3.10
