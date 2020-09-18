@@ -8,8 +8,9 @@ If you find something could be improved in the book, be it a typo or a technical
 
 (See [Releases](https://github.com/balinterdi/rarwe-issues/releases) for more information on each release)
 
-* 2020-08-05: Version 3.20 (The Octane book)
-* 2020-06-25: Version 3.18 (The Octane book)
+* 2020-09-18: Version 3.21
+* 2020-08-05: Version 3.20
+* 2020-06-25: Version 3.18 (The Octane book launch)
 * 2020-01-20: Version 3.14
 * 2019-09-26: Version 3.12 (the Encore chapters)
 * 2019-09-13: Version 3.12 (without the Encore chapters)
